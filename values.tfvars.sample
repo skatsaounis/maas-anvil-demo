@@ -1,0 +1,8 @@
+machine_map = {
+  node_name = {
+    system_id       = "abcdef"
+    pxe_mac_address = "ab:cd:ef:12:34:56"
+    power_address   = "10.20.0.10"
+    power_pass      = "pass"
+  }
+}
